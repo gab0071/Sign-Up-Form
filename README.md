@@ -1,6 +1,6 @@
 # Applying my knowledge in HTML and CSS? 🥇
 
--   Live Demo using jQuery 💥: https://luminous-gaufre-6ae801.netlify.app
+-   Live Demo 💥: https://luminous-gaufre-6ae801.netlify.app
 
 ## In this Repo the tools I used were:
 
